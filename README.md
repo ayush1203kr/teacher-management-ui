@@ -17,7 +17,7 @@ Developed as part of the Frontend Assessment Task for the part-time developer ro
 
 ## 🚀 Live Demo
 
-🔗 [View Deployment on Vercel](teacher-management-m7bxza9sg-ayush-kumars-projects-90804276.vercel.app)
+View Deployment on Vercel:(teacher-management-m7bxza9sg-ayush-kumars-projects-90804276.vercel.app)
 
 > ✅ This is the publicly hosted version of the project.
 
