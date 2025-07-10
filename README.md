@@ -1,7 +1,6 @@
 # 👩‍🏫 Teacher Management UI
 
 A modern, responsive, and accessible teacher management interface built using **Next.js**, **TypeScript**, and **Tailwind CSS**.  
-Developed as part of the Frontend Assessment Task for the part-time developer role at **PearlThoughts**.
 
 ---
 
