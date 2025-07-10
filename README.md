@@ -25,7 +25,7 @@ View Deployment on Vercel:(teacher-management-m7bxza9sg-ayush-kumars-projects-90
 
 ## 📹 Demo Video
 
-🎥 [Watch Project Walkthrough (Loom / Google Drive)](https://your-video-link)
+🎥 [Watch Project Walkthrough (Loom / Google Drive)](https://www.loom.com/share/ac59b6b9d41043a9930671b3a1d35601?sid=d3e99e0f-ef13-42ba-9f51-83d4708606c2)
 
 > A short video (5–10 minutes) walking through features, structure, and UI/UX decisions.
 
